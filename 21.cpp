@@ -1,0 +1,1 @@
+//Write a program to find the majority element in an array (element appearing more than N/2 times).
